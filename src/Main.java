@@ -5,7 +5,7 @@ public class Main {
 
     public static void main ( String[] args) {
 
-        // If Else Statements
+        // If Else Statements basic concepts with 3 different cases
 
         Scanner scanner = new Scanner(System.in);
 
